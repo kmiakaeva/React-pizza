@@ -2,7 +2,7 @@
 
 React Pizza is an online store where users can choose and buy pizza. The store has a search for pizzas by name, filtering by type, sorting, a pizza information page and a shopping cart.
 
-👉 [Live Demo](https://react-pizza-kris-mkv.vercel.app/)  
+👉 [Live Demo](https://react-pizza-kmiakaeva.vercel.app/)  
 
 📚 Study project from [Archakov](https://github.com/Archakov06/react-pizza-v2)
 
